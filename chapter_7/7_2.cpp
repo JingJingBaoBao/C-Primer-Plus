@@ -13,7 +13,6 @@ int main(void)
     double volume = cube(side);
     cout << "A " << side << "-foot cube has a volume of ";
     cheers(cube(2));
-
     return 0;
 }
 

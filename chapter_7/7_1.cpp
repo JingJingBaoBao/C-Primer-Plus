@@ -8,7 +8,6 @@ int main(void)
     cout << "main() will the simple() function\n";
     simple();
     cout << "main() finish the simple() function\n";
-
     return 0;
 }
 

@@ -18,6 +18,7 @@ int main()
         cin >> ch;
     }
     cout << "The value of times is " << times << ".\n";
+    
     return 0;
 }
 
